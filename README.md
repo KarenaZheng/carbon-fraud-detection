@@ -32,9 +32,10 @@ We used a web scraping tool to extract project description data from downloadabl
 
 * Apache Spark
 *  Web scraper API
+*  Azure Storage
 *  PySpark ML
-*  OpenAI/ChatGPT
-*  Llama 3
+*  OpenAI
+*  Llama
 *  Streamlit
 
 ## Project Documents
