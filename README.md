@@ -10,6 +10,12 @@
 
 This project focuses on detecting greenwashing and other potentially fraudulent activities in carbon credit transactions through the AI-driven analysis of both structured and unstructured carbon credit and offset data. As carbon credits are increasingly traded in global markets, the prevalence of fraudulent practices poses significant risks to market integrity. By leveraging Llama 3 for natural language processing-based fraud flagging and Apache Spark for high-performance anomaly detection, with insights summarized in a lightweight dashboard, this project contributes directly to the evolution of trustworthy, data-driven ESG frameworks. The resulting business insights can be utilized by a broad set of stakeholders dedicated to upholding transparency and accountability in carbon markets, including regulatory authorities, businesses concerned with their environmental impact, and environmental NGOs and advocacy organizations.
 
+## Business Value
+
+The Gartner Hype Cycle for Sustainability identifies Carbon Accounting and Management Software as a key emerging technology, expected to mature within the next 5–10 years. This reflects an urgent need for tools that not only track carbon flows but also ensure compliance and prevent fraud.
+
+<img width="651" alt="Hype cycle" src="https://github.com/user-attachments/assets/7525f2a8-98b2-48d5-b77e-0adbd38d624c" />
+
 ## Target Audience
 
 This project is tailored for a broad set of stakeholders dedicated to upholding transparency and accountability in carbon markets.
@@ -38,9 +44,15 @@ We used a web scraping tool to extract project description data from downloadabl
 *  Llama
 *  Streamlit
 
+## Project Workflow
+
+<img width="594" alt="Project workflow" src="https://github.com/user-attachments/assets/f5c10d61-6255-421f-8f5d-4872ab66b1bd" />
+
 ## Project Documents
 
 [Project Flier](https://www.canva.com/design/DAGlgt5IFps/XJnwYmskxM8jsDW_ghUNLg/edit)
+
+Dashboard Prototype (link TBD)
 
 Instructions (document TBD)
 
