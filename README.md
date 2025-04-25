@@ -46,7 +46,8 @@ We used a web scraping tool to extract project description data from downloadabl
 
 ## Project Workflow
 
-<img width="594" alt="Project workflow" src="https://github.com/user-attachments/assets/f5c10d61-6255-421f-8f5d-4872ab66b1bd" />
+<img width="604" alt="Screenshot 2025-04-25 at 1 30 09 PM" src="https://github.com/user-attachments/assets/d6360abc-13e3-4b0b-a6c5-1979183ccf13" />
+
 
 ## Project Documents
 
