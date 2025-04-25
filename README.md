@@ -51,7 +51,7 @@ We used a web scraping tool to extract project description data from downloadabl
 
 ## Project Documents
 
-[Project Flier](https://www.canva.com/design/DAGlgt5IFps/XJnwYmskxM8jsDW_ghUNLg/edit)
+[Project Flier](https://drive.google.com/file/d/1WjbeXRs95j3J3efh4wAREseQCYQ0oFmc/view?usp=sharing)
 
 Dashboard Prototype (link TBD)
 
