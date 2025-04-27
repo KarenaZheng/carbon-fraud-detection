@@ -70,4 +70,4 @@ We used a web scraping tool to extract project description data from downloadabl
 
 Dashboard Instructions (document TBD)
 
-[Transformed dataset for dashboard](https://drive.google.com/file/d/1vglqHOqvJaFFuuIX1mlcERtgfl9eqCcK/view?usp=drive_link)
+[Google Drive link to Dashboard dataset](https://drive.google.com/file/d/1vglqHOqvJaFFuuIX1mlcERtgfl9eqCcK/view?usp=drive_link)
