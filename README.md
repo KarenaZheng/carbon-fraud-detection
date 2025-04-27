@@ -38,10 +38,11 @@ We used a web scraping tool to extract project description data from downloadabl
 
 * Apache Spark
 *  Web scraper API
-*  Azure Storage
+*  PDF to .txt OCR Engine
+*  Azure Blob Storage
 *  PySpark ML
-*  OpenAI
-*  Llama
+*  GPT-4
+*  Llama 3.2
 *  Streamlit
 
 ## Project Workflow
@@ -53,8 +54,18 @@ We used a web scraping tool to extract project description data from downloadabl
 
 [Project Flier](https://drive.google.com/file/d/1WjbeXRs95j3J3efh4wAREseQCYQ0oFmc/view?usp=sharing)
 
-Dashboard Prototype (link TBD)
-
-Instructions (document TBD)
-
 [Annotated Bibliography](https://docs.google.com/document/d/1REVrUjHongVOkwz-I0pRcb2i8T3ePSUY-lCRz3s1-EU/edit?usp=sharing)
+
+**Carbon Veracity Analyzer**
+
+[Verra Registry Web Scraper Instructions](https://drive.google.com/file/d/1r097ElSnSik2e_Hgofh7Lv-7pmR9d7rl/view?usp=sharing)
+
+[PDF Converter Instructions](https://drive.google.com/file/d/1JLeCUtDsEy1AoyM6uGdzpRafEnOKjhSf/view?usp=sharing)
+
+[Carbon Veracity Analyzer Instructions](https://drive.google.com/file/d/1JLeCUtDsEy1AoyM6uGdzpRafEnOKjhSf/view?usp=sharing)
+
+**Dashboard**
+
+[Isolation Forest Model Instructions](https://docs.google.com/document/d/1s02hlmiwlp3Sr1hKciyaXLQRvniNx4dnHR1yW2pifVY/edit?usp=sharing)
+
+Dashboard Instructions (document TBD)
