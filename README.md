@@ -69,3 +69,5 @@ We used a web scraping tool to extract project description data from downloadabl
 [Isolation Forest Model Instructions](https://docs.google.com/document/d/1s02hlmiwlp3Sr1hKciyaXLQRvniNx4dnHR1yW2pifVY/edit?usp=sharing)
 
 Dashboard Instructions (document TBD)
+
+[Transformed dataset for dashboard](https://drive.google.com/file/d/1vglqHOqvJaFFuuIX1mlcERtgfl9eqCcK/view?usp=drive_link)
