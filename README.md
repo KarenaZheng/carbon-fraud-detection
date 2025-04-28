@@ -60,7 +60,7 @@ We used a web scraping tool to extract project description data from downloadabl
 
 [Verra Registry Web Scraper Instructions](https://drive.google.com/file/d/1r097ElSnSik2e_Hgofh7Lv-7pmR9d7rl/view?usp=sharing)
 
-[PDF Converter Instructions](https://drive.google.com/file/d/1JLeCUtDsEy1AoyM6uGdzpRafEnOKjhSf/view?usp=sharing)
+[PDF Converter Instructions](https://drive.google.com/file/d/1NIazo_H-NN_ncq9oAp4y3bkhEfk7EPbC/view?usp=sharing)
 
 [Carbon Veracity Analyzer Instructions](https://drive.google.com/file/d/1JLeCUtDsEy1AoyM6uGdzpRafEnOKjhSf/view?usp=sharing)
 
